@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Awanish kumar singh Pandey</h1>
+<h1 align="center">Hi 👋, I'm Awanish kumar singh </h1>
 <h3 align="center">Programming enthusiast || Developer || Data structures & Algorithms (Java) || Geeks for geeks || PHILANTHROPIST ||Active Open Source Contributor @github || </h3>
 
 <p align="left"> <img src="src="https://avatars.githubusercontent.com/u/59319068?s=400&u=e56018b437e8e507214e566d4a3e8c617b03edac&v=4"" /> </p>
